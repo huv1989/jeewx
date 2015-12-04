@@ -1,0 +1,18 @@
+
+1. 标准开发环境
+   eclipse + maven + jdk7 + tomcat7 + mysql
+
+2. 必须手工执行SQL脚本,创建UTF-8编码数据库jeewx
+        脚本：doc\db\jeewx2.0-mysql.sql
+
+3. jeewx技术文档：
+	链接: http://pan.baidu.com/s/1eQouFNc 密码: ubjx
+	链接: http://pan.baidu.com/s/1jGl4HMI 密码: 20vq
+
+4. 【视频教程】JeeWx 微信开发入门视频
+    http://www.jeecg.org/forum.php?mod=viewthread&tid=2309&extra=page%3D1
+	
+5. 更多技术资料，请访问官方论坛
+    www.jeecg.org   
+   
+   注意： 不支持jdk8;必须手工执行doc\db下的数据库脚本	
